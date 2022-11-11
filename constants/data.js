@@ -72,7 +72,7 @@ const userData = {
       Best,
       Mario M. Elizalde`,
     ],
-    currentProject: "GitHub Repo for Mario M. Elizalde,
+    currentProject: "GitHub Repo for Mario M. Elizalde",
     currentProjectUrl: "https://github.com/marioebros",
   },
   experience: [
